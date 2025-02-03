@@ -4,7 +4,7 @@
 
 🚀 **Chef de projet IA / Machine Learning Engineer & Data-Scientist Full-Stack**  
 🌍 **Localisation** : Corse 🇫🇷  
-🎯 **Projet actuel** : [Marketplace] un marketplace innovant en B2C.
+🎯 **Projet actuel** : [KairoMap] une map intéractive innovante en B2C / B2B.
 
 ---
 
