@@ -23,7 +23,7 @@
 
 ## **🚀 Projets phares**
 - 🌍 [Corsic'auto] : Marketplace automobile pour les professionnels.
-- 💳 [Détection de Fraude Bancaire](https://github.com/Baptiste2B/fraude-detection) : Modèle ML utilisant XGBoost et SHAP.
+- 💳 [Détection de Fraude Bancaire](https://github.com/Baptiste2B/FraudDetectAi/tree/master) : Modèle ML utilisant XGBoost et SHAP.
 - 📊 [Tagline] : Dashboard d'analyse avec Spacy (Projet Entreprise)
 
 ---
