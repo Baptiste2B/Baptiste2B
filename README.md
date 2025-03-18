@@ -24,15 +24,11 @@
 ## **🚀 Projets phares**
 - 🌍 [Corsic'auto] : Marketplace automobile pour les professionnels.
 - 💳 [Détection de Fraude Bancaire](https://github.com/Baptiste2B/fraude-detection) : Modèle ML utilisant XGBoost et SHAP.
-- 📊 [Tagline] : Dashboard d'analyse avec Spacy
+- 📊 [Tagline] : Dashboard d'analyse avec Spacy (Projet Entreprise)
 
 ---
 
 ## **🛠️ Langages & Outils**
-
-### 💻 **Langages principaux :**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baptiste2B&layout=donut-vertical)
 
 ### 💻 **Langages principaux (Logo) :**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
@@ -68,13 +64,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
 </div>
-
----
-
-## **🎉 Fun Widgets**
-
-### ✨ **Citation inspirante :**
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
