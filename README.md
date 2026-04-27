@@ -2,7 +2,7 @@
 
 # 👨‍💻
 
-🚀 **Chef de projet IA / Machine Learning Engineer & Data-Scientist Full-Stack**  
+🚀 **AI Product Engineer**  
 🌍 **Localisation** : Corse 🇫🇷  
 🎯 **Projet actuel** : [KairoMap] une map intéractive innovante en B2C / B2B.
 
