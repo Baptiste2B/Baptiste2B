@@ -1,72 +1,204 @@
-![Bienvenue sur mon profil GitHub](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bienvenue%20sur%20mon%20GitHub!&fontSize=40)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:06b6d4&text=Baptiste&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Product%20Engineer%20•%20Building%20the%20future%20with%20AI&descAlignY=58"/>
+</p>
 
-# 👨‍💻
+<h1 align="center">
+Hi 👋 I'm Baptiste
+</h1>
 
-🚀 **AI Product Engineer**  
-🌍 **Localisation** : Corse 🇫🇷  
-🎯 **Projet actuel** : [KairoMap] une map intéractive innovante en B2C / B2B.
+<h3 align="center">
+AI Product Engineer • Full Stack Developer • Entrepreneur
+</h3>
 
----
+<p align="center">
 
-## **📈 Statistiques GitHub**
+Building products that combine Artificial Intelligence, beautiful UX and scalable architecture.
 
-### 🌟 **Statistiques globales :**
-![Baptiste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baptiste2B&show_icons=true&theme=radical&hide_border=true)
+Currently building **KairoMap**, an AI-powered interactive mapping platform for professionals and consumers.
 
-### 🔥 **Streaks de contributions continues :**
-![GitHub Streak](https://streak-stats.demolab.com?user=Baptiste2B&theme=radical&hide_border=true&border_radius=5)
-
-### 📊 **Graphique d'activités :**
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Baptiste2B&theme=tokyo-night)
-
----
-
-## **🚀 Projets phares**
-- 🌍 [Corsic'auto] : Marketplace automobile pour les professionnels.
-- 💳 [Détection de Fraude Bancaire](https://github.com/Baptiste2B/FraudDetectAi/tree/master) : Modèle ML utilisant XGBoost et SHAP.
-- 📊 [Tagline] : Dashboard d'analyse avec Spacy (Projet Entreprise)
+</p>
 
 ---
 
-## **🛠️ Langages & Outils**
+# ⚡ About Me
 
-### 💻 **Langages principaux (Logo) :**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
+```yaml
+Name: Baptiste
+Location: Corsica 🇫🇷
 
-### 🛠️ **Frameworks :**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+Focus:
+  - Artificial Intelligence
+  - Product Engineering
+  - SaaS
+  - Computer Vision
+  - LLM Applications
+  - Geographic Intelligence
 
-### 🔧 **Outils de développement :**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Currently Building:
+  - 🗺️ KairoMap
 
-### 🔧 **AI / DATA :**
-<div>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-</div>
+Learning:
+  - AI Agents
+  - Multi-Agent Systems
+  - Vector Databases
+  - Cloud Infrastructure
 
-### 🛠️ Services  :
-<div>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-</div>
+Mission:
+  Build products that solve real-world problems using AI.
+```
 
 ---
 
-## **🏆 Trophées GitHub**
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Baptiste2B&theme=radical&no-frame=true&row=1&column=6)
+# 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
+## 🗺️ KairoMap
+
+AI-powered Interactive Mapping Platform
+
+- B2B & B2C
+- Smart geographic search
+- AI recommendations
+- Modern UI
+
+</td>
+
+<td width="50%">
+
+## 🚗 Corsic'Auto
+
+Marketplace for automotive professionals
+
+- Full Stack
+- Marketplace
+- Payments
+- Professional Dashboard
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 💳 FraudDetectAI
+
+Machine Learning project
+
+✔ XGBoost
+
+✔ SHAP Explainability
+
+✔ Fraud Detection
+
+</td>
+
+<td width="50%">
+
+## 📊 Tagline
+
+Enterprise NLP Dashboard
+
+- spaCy
+- Analytics
+- Text Intelligence
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,react,nodejs,django,fastapi,docker,postgres,redis,git,github,linux,aws,vscode"/>
+
+</p>
+
+---
+
+# 🤖 AI Stack
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=openai,langchain,tensorflow,pytorch,opencv,sklearn,pandas,numpy"/>
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Baptiste2B&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baptiste2B&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Baptiste2B&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Baptiste2B&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌍 What I Like Building
+
+- 🤖 AI Applications
+- 🧠 LLM Products
+- 🌍 Geographic Intelligence
+- 📈 SaaS Platforms
+- ⚡ Fast APIs
+- ☁️ Cloud Infrastructure
+- 🎨 Modern Interfaces
+- 📊 Data Visualization
+
+---
+
+# 📊 2026 Goals
+
+- 🚀 Launch KairoMap
+- 🌍 Reach thousands of users
+- 🤖 Build AI-first products
+- ☁️ Scale infrastructure
+- 💡 Open Source useful tools
+
+---
+
+# 💬 Quote
+
+> *"Great software isn't just written.
+It's designed, engineered and continuously improved."*
+
+---
+
+<p align="center">
+
+### Thanks for visiting 👋
+
+⭐ If you like my projects, don't forget to leave a star!
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Baptiste2B&style=for-the-badge&color=blue"/>
+
+</p>
