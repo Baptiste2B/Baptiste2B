@@ -1,204 +1,90 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:06b6d4&text=Baptiste&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Product%20Engineer%20•%20Building%20the%20future%20with%20AI&descAlignY=58"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0B2A33&text=Baptiste%20Audroin&fontColor=F2EFE8&fontSize=52&fontAlign=22&fontAlignY=44&desc=Co-founder%20%26%20CTO%2C%20Kairo%20AI&descSize=18&descAlign=17&descAlignY=72" width="100%"/>
 
-<h1 align="center">
-Hi 👋 I'm Baptiste
-</h1>
+<a href="https://github.com/Baptiste2B">
+  <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&weight=500&size=22&pause=1400&color=0B7A75&vCenter=true&width=560&height=40&lines=Generative+AI+research;Harness+engineering;Agentic+AI" alt="Generative AI research, Harness engineering, Agentic AI"/>
+</a>
 
-<h3 align="center">
-AI Product Engineer • Full Stack Developer • Entrepreneur
-</h3>
+AI Product Engineer based in Corsica, France.
+I build AI products that run in the real world: on real maps, for real local businesses, on European infrastructure.
 
-<p align="center">
+<br/>
 
-Building products that combine Artificial Intelligence, beautiful UX and scalable architecture.
+## Research focus
 
-Currently building **KairoMap**, an AI-powered interactive mapping platform for professionals and consumers.
+![Generative AI](https://img.shields.io/badge/Generative_AI-0B2A33?style=flat-square)
+![Harness Engineering](https://img.shields.io/badge/Harness_Engineering-0B2A33?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0B2A33?style=flat-square)
+![Model Routing](https://img.shields.io/badge/Model_Routing-0B2A33?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0B2A33?style=flat-square)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-0B7A75?style=flat-square)
 
-</p>
+I work on what sits around the model: the loop, the tools, the router, the judge, the guardrails. Most of the reliability of an AI product lives there.
 
----
+### Sovereign model routing
+Can a router pick the right open-weight model per task, and beat a single large model?
+- A small sovereign model (**Qwen-32B**) matched or beat **Llama-70B** for **~42% of the cost, 2× faster**, cross-validated.
+- Negative result, kept on record: a multi-pass **AB-MCTS** orchestration loop brought **no measurable value** on short, factual, grounded tasks. Routing did the work, not the loop.
+- Next question, falsifiable: does a router **learned on real field traces** beat a generic one, and by how much?
 
-# ⚡ About Me
+### Agentic AI
+- In-house **ReAct** agent loop, orchestration migrated to **LangGraph**.
+- **Read-only sovereign agent mode**: public-data tools behind a domain allowlist, every outbound call counted and traced.
+- **Human-in-the-loop** design for write actions: propose, pause, approve out of band, resume.
 
-```yaml
-Name: Baptiste
-Location: Corsica 🇫🇷
+### Harness engineering
+- Hard quota caps, org-isolated retrieval, hash-chained audit log, per-run agent logs.
+- Deterministic by design where it matters: figures computed in code, the LLM only interprets.
+- Shipping with parallel coding-agent sessions as a daily engineering workflow.
 
-Focus:
-  - Artificial Intelligence
-  - Product Engineering
-  - SaaS
-  - Computer Vision
-  - LLM Applications
-  - Geographic Intelligence
+### Retrieval (RAG)
+- Embedding benchmark on French content: **multilingual-e5-base** at **NDCG@10 0.945** vs **0.527** for MiniLM.
+- A cross-encoder reranker consistently **degraded** results on this corpus, so it stays off.
+- Per-organization vector isolation with verifiable citations.
 
-Currently Building:
-  - 🗺️ KairoMap
+### LLM evaluation
+- LLM judges are **non-deterministic on borderline cases**, even at temperature 0.
+- Offline fix: **reference-based judging** against gold answers.
+- Open problem: production reward signals are noisy, and must be fixed before any learned router ships.
 
-Learning:
-  - AI Agents
-  - Multi-Agent Systems
-  - Vector Databases
-  - Cloud Infrastructure
+<br/>
 
-Mission:
-  Build products that solve real-world problems using AI.
-```
+## Now
 
----
+> [!NOTE]
+> **KairoMap is live since June 15, 2026.**
+> A hyperlocal AI map for Corsican commerce and tourism, built on a retrieval (RAG) layer and served from sovereign OVH infrastructure. One platform, two audiences: professionals who publish, and people who search.
+>
+> Under the hood: three proprietary agents, **Atlas**, **Cadence** and **Prisme**.
 
-# 🚀 Featured Projects
+<br/>
 
-<table>
-<tr>
+## Stack
 
-<td width="50%">
+<img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,nodejs,fastapi,django,postgres,redis,docker,linux,aws&perline=12" alt="Tech stack"/>
 
-## 🗺️ KairoMap
+<br/><br/>
 
-AI-powered Interactive Mapping Platform
+![PyTorch](https://img.shields.io/badge/PyTorch-0B2A33?style=flat-square&logo=pytorch&logoColor=F2EFE8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0B2A33?style=flat-square&logo=tensorflow&logoColor=F2EFE8)
+![LangChain](https://img.shields.io/badge/LangChain-0B2A33?style=flat-square&logo=langchain&logoColor=F2EFE8)
+![LangGraph](https://img.shields.io/badge/LangGraph-0B2A33?style=flat-square&logo=langchain&logoColor=F2EFE8)
+![Qdrant](https://img.shields.io/badge/Qdrant-0B2A33?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-0B2A33?style=flat-square&logo=postgresql&logoColor=F2EFE8)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0B2A33?style=flat-square&logo=scikitlearn&logoColor=F2EFE8)
+![OpenCV](https://img.shields.io/badge/OpenCV-0B2A33?style=flat-square&logo=opencv&logoColor=F2EFE8)
+![pandas](https://img.shields.io/badge/pandas-0B2A33?style=flat-square&logo=pandas&logoColor=F2EFE8)
+![NumPy](https://img.shields.io/badge/NumPy-0B2A33?style=flat-square&logo=numpy&logoColor=F2EFE8)
 
-- B2B & B2C
-- Smart geographic search
-- AI recommendations
-- Modern UI
+<br/>
 
-</td>
+## Central
 
-<td width="50%">
+> [!TIP]
+> **Central by Kairo AI**
+> Sovereign AI infrastructure for companies. One entry point, the right open-weight model for each task, and every request processed in France.
+>
+> *Sovereign by design, not by option.*
 
-## 🚗 Corsic'Auto
+<br/>
 
-Marketplace for automotive professionals
-
-- Full Stack
-- Marketplace
-- Payments
-- Professional Dashboard
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 💳 FraudDetectAI
-
-Machine Learning project
-
-✔ XGBoost
-
-✔ SHAP Explainability
-
-✔ Fraud Detection
-
-</td>
-
-<td width="50%">
-
-## 📊 Tagline
-
-Enterprise NLP Dashboard
-
-- spaCy
-- Analytics
-- Text Intelligence
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,react,nodejs,django,fastapi,docker,postgres,redis,git,github,linux,aws,vscode"/>
-
-</p>
-
----
-
-# 🤖 AI Stack
-
-<p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=openai,langchain,tensorflow,pytorch,opencv,sklearn,pandas,numpy"/>
-
-</p>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Baptiste2B&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baptiste2B&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Baptiste2B&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Baptiste2B&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🌍 What I Like Building
-
-- 🤖 AI Applications
-- 🧠 LLM Products
-- 🌍 Geographic Intelligence
-- 📈 SaaS Platforms
-- ⚡ Fast APIs
-- ☁️ Cloud Infrastructure
-- 🎨 Modern Interfaces
-- 📊 Data Visualization
-
----
-
-# 📊 2026 Goals
-
-- 🚀 Launch KairoMap
-- 🌍 Reach thousands of users
-- 🤖 Build AI-first products
-- ☁️ Scale infrastructure
-- 💡 Open Source useful tools
-
----
-
-# 💬 Quote
-
-> *"Great software isn't just written.
-It's designed, engineered and continuously improved."*
-
----
-
-<p align="center">
-
-### Thanks for visiting 👋
-
-⭐ If you like my projects, don't forget to leave a star!
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Baptiste2B&style=for-the-badge&color=blue"/>
-
-</p>
+<sub>Building from Corsica, for Europe.</sub>
