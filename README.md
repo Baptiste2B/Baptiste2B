@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0B2A33&text=Baptiste%20Audroin&fontColor=F2EFE8&fontSize=52&fontAlign=22&fontAlignY=44&desc=Co-founder%20%26%20CTO%2C%20Kairo%20AI&descSize=18&descAlign=17&descAlignY=72" width="100%"/>
-
 <a href="https://github.com/Baptiste2B">
   <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&weight=500&size=22&pause=1400&color=0B7A75&vCenter=true&width=560&height=40&lines=Generative+AI+research;Harness+engineering;Agentic+AI" alt="Generative AI research, Harness engineering, Agentic AI"/>
 </a>
